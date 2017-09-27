@@ -113,10 +113,10 @@ var MidiLogger = function(){
 		}
 		arrTableMarkup.push (   	"</td>" );
 		arrTableMarkup.push (   	"<td class='manufacturer-column'>" );
-		arrTableMarkup.push (   		event.currentTarget.manufacturer );
+		//arrTableMarkup.push (   		event.currentTarget.manufacturer );
 		arrTableMarkup.push (   	"</td>" );
 		arrTableMarkup.push (   	"<td class='model-column'>" );
-		arrTableMarkup.push (   		event.currentTarget.name );
+		//arrTableMarkup.push (   		event.currentTarget.name );
 		arrTableMarkup.push (   	"</td>" );
 		arrTableMarkup.push (   	"</tr>" );
 
